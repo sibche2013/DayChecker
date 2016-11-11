@@ -1,4 +1,3 @@
-﻿<script>
     //Print Function
     function myPrint(string) {
         document.write(string + "<br>")
@@ -68,4 +67,3 @@
     }
     //Print Holiday Message
     myPrint(message);
-</script>
