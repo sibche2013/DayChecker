@@ -28,38 +28,36 @@
     //Check What Is The Name Of Day?
     switch (day) {
         case 0:
-            message = "Today Is Sunday!";
+            message = "Sunday";
             break;
         case 1:
-            message = "Today Is Monday!";
+            message = "Monday";
             break;
         case 2:
-            message = "Today Is Saturday!";
+            message = "Saturday";
             break;
         case 3:
-            message = "Today Is Wednesday!";
+            message = "Wednesday";
             break;
         case 4:
-            message = "Today Is Thursday!";
+            message = "Thursday";
             break;
         case 5:
-            message = "Today Is Friday!";
+            message = "Friday";
             break;
         case 6:
-            message = "Today Is Saturday!";
+            message = "Saturday";
             break;
         default:
             message = "Your System Date Is Wrong!";
     }
     //Print The Name Of Day
-    myPrint(message);
+    myPrint("Today Is "+message);
 
     //Check The Holidays
     switch (day) {
+        case 4:
         case 5:
-            message = "Today Is Holiday!";
-            break;
-        case 6:
             message = "Today Is Holiday!";
             break;
         default:
