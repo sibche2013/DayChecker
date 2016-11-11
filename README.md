@@ -11,7 +11,7 @@ By This little JavaScript Code You Can Check And Show :<br>
 Just Copy & Paste DayChecker.html Codes On Your Project! & Edit Messages To Whatever You Want<br>
 
 # Contact & Problem
-If You Have Any Problem Feel Free To Contact Me!@!
+If You Have Any Problem Feel Free To Contact Me! @Sibche2013
 
 # بررسی کننده اوقات روز<br>
 چاپ و نمایش روز هفته ، زمان روز (صبح، ظهر، بعد از ظهر ، شب و نیمه شب) ، روز تعطیلی هفته<br>
