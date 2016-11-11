@@ -8,7 +8,7 @@ By This little JavaScript Code You Can Check And Show :<br>
 3-Declaration Holidays Of Week (Thursday & Friday)<br>
 
 # How To Use
-Just Copy & Paste DayChecker.html Codes On Your Project! & Edit Messages To Whatever You Want<br>
+Just Copy & Paste DayChecker.js Codes On Your Project! & Edit Messages To Whatever You Want<br>
 
 # Contact & Problem
 If You Have Any Problem Feel Free To Contact Me! @Sibche2013
