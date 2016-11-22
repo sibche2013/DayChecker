@@ -7,6 +7,9 @@ By This little JavaScript Code You Can Check And Show :<br>
 2-What's The Time In A Day (Midnight,Morning,Noon,Afternoon,Night)<br>
 3-Declaration Holidays Of Week (Thursday & Friday)<br>
 
+# Online Demo
+  <a href="https://demo.aminarjmand.com/coding/javascript/01/DayChecker.html">View Demo</a>
+  
 # How To Use
 Just Copy & Paste DayChecker.js Codes On Your Project! & Edit Messages To Whatever You Want<br>
 
@@ -28,6 +31,9 @@ If You Have Any Problem Feel Free To Contact Me! @Sibche2013
 2- ساعت کنونی چه زمانی از روز هستش؟ (نیمه شب، روز،ظهر، بعد از ظهر و یا شب)<br>
 3- اعلام روزهای تعطیل هفته<br>
 
+# دموی آنلاین
+  <a href="https://demo.aminarjmand.com/coding/javascript/01/DayChecker.html">مشاهده دمو</a>
+  
 # نحوه استفاده
 براحتی کد موجود در فایل رو در پروژه ی خودتون کپی کنید و میتونید پیام های پیشفرض رو به پیامی که دوست دارید تغییر بدین<br> @
 
