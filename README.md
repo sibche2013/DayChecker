@@ -1,4 +1,4 @@
-# DayChecker
+# JavaScript Day Checker
 Show The Name &amp; Time Of Day &amp; Holidays With JavaSript!<br>
 
 # Features
